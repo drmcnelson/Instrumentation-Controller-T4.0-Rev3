@@ -1,5 +1,5 @@
 # Instrumentation-Controller-T4.0-Rev3
-Instrumentation Controller/carrier for Teens 4.0, with power panagement, keyed connectors for CCD (SPI+FlexPWM), SPI, DIO, diode protecfted analog inputs, and precision 2.048 voltage reference.
+Instrumentation Controller/carrier for Teensy 4.0, with power management, keyed connectors for CCD (SPI+FlexPWM), SPI, DIO, diode protecfted analog inputs, and precision 2.048 voltage reference.
 
 <p align="center">
 <img src="Images/Controller_T4_R3_top.jpg" width="40%">
