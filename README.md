@@ -24,4 +24,6 @@ The power output at the lower right (J9) is a direct connection to the USB 5V li
 <img src="Images/Layout1.jpg" width="40%">
 </p>
 
-Please direct message or email with any questions.
+Please be sure to see our other repos for instrumentation circuits and software.  And please do click the support button.  Your donation helps support open instruments for open science.
+
+For questions, please contact me by direct message or email. 
